@@ -15,7 +15,7 @@
     "react-bbox": "^0.5.16",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^3.4.0",
+    "react-scripts": "^5.0.1",
     "scss": "^0.2.4"
   },
   "scripts": {
